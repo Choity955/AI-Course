@@ -27,3 +27,5 @@ The game window will open automatically.
 
 No external libraries are required besides Tkinter (which comes preinstalled with Python).
 # Game Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f06abe3-e35d-4427-8bbe-4d98abbc388c" />.png
+
