@@ -57,3 +57,5 @@ The algorithm maintains two parameters during traversal:
 - **Efficiency:** ⚡ Reduces computation time significantly compared to standard Minimax  
 
 # Input/Output Screenshot
+<img width="645" height="368" alt="image" src="https://github.com/user-attachments/assets/2a77d344-91a8-4fc3-a56b-4ef7a432a000" />.png
+
