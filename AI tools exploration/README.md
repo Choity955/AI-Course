@@ -31,7 +31,7 @@ Free version (with watermark and limited exports).
 Paid version offers HD quality, no watermark, and more styles.
 
 ## AI Course Video
-![ [Watch the AI Video](https://github.com/Choity955/AI-Course/raw/refs/heads/main/AI%20tools%20exploration/AI%20Course%20Overview%20through%20video.mp4)
+[Watch the AI Video](https://github.com/Choity955/AI-Course/raw/refs/heads/main/AI%20tools%20exploration/AI%20Course%20Overview%20through%20video.mp4)
 
 # AI Presentation Creation
 # Tool Used:
