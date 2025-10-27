@@ -41,6 +41,8 @@ No external libraries are required except Tkinter, which comes built-in with Pyt
 - You can click Reset to start a new round.
 
 ## Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0569fda5-9248-4327-ae91-c07a8f789123" />.png
+
 
 
 
