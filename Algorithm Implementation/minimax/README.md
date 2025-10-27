@@ -57,3 +57,5 @@ For Tic-Tac-Toe:
 
 
 # Input/Output Screenshot
+<img width="544" height="247" alt="image" src="https://github.com/user-attachments/assets/8a834078-63ee-4c04-8a4b-e305792d4430" />.png
+
