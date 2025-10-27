@@ -54,4 +54,5 @@ Each node at the same depth level is explored before moving deeper.
 
 
 # Input/Output Screenshot
+<img width="332" height="237" alt="image" src="https://github.com/user-attachments/assets/f942bb95-1ba7-4633-85e4-ec80acc0fcc7" />.png
 
