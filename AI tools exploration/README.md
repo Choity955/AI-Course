@@ -22,7 +22,7 @@ Selected a video style template and voice-over type.
 The AI tool automatically generated scenes with visuals and background music.
 Reviewed the generated video and edited text, scenes, and timing.
 Exported the final video in MP4 format and saved it as:
-Artificial Intelligence Video.mp4
+AI Course Overview through Video.mp4
 
  Version Used:
 
@@ -31,7 +31,7 @@ Free version (with watermark and limited exports).
 Paid version offers HD quality, no watermark, and more styles.
 
 ## AI Course Video
-[Watch the AI Course Video](AI_Course_Video.mp4)
+![ Input_Output_Screenshot](https://github.com/Choity955/AI-Course/raw/refs/heads/main/AI%20tools%20exploration/AI%20Course%20Overview%20through%20video.mp4)
 
 # AI Presentation Creation
 # Tool Used:
@@ -47,7 +47,7 @@ Typed a short prompt:
 The AI automatically generated slides with layout, images, and design.
 Edited slide text and design for clarity and correctness.
 Exported the final presentation as PPTX.
-📄 AI_Course_Presentation.pptx
+📄 AI_Course ppt.pptx
 
 Version Used:
 
