@@ -64,3 +64,5 @@ f(n) = g(n) + h(n)
 - **Optimality:** ✅ Yes (for **admissible and consistent heuristics**)  
 - **Efficiency:** ⚡ Expands fewer nodes than BFS by using a heuristic  
 
+# Input/Output Screenshot
+![ Input_Output_Screenshot]<img width="348" height="507" alt="image" src="https://github.com/user-attachments/assets/434a7343-6745-4515-acbb-f2e305631a1d" />.png
