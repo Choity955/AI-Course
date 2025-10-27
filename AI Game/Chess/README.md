@@ -53,3 +53,5 @@ pip install python-chess
     - Draw (insufficient material or repetition)
 
 # Game Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/206e7171-7bb3-4f1d-a78d-2afbb89a5238" />.png
+
