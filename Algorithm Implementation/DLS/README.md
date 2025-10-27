@@ -53,3 +53,5 @@ DLS may **miss the goal** if it lies **beyond the depth limit**, but it offers s
 
 
 # Input/Output Screenshot
+<img width="460" height="311" alt="image" src="https://github.com/user-attachments/assets/d7a3bbef-5db4-4232-b30d-eb2d4f2348d9" />.png
+
