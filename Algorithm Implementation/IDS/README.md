@@ -65,4 +65,5 @@ Although earlier levels are re-searched, IDS remains efficient due to exponentia
 
 # Input/Output Screenshot
 <img width="425" height="295" alt="image" src="https://github.com/user-attachments/assets/11275f77-db97-4c7e-bc1c-fbe181a4dd40" />.png
+<img width="494" height="263" alt="image" src="https://github.com/user-attachments/assets/40865c9c-6766-4aac-a604-93588812a429" />.png
 
