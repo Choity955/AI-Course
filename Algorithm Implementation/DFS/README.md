@@ -54,3 +54,5 @@ DFS explores a path completely before returning (backtracking) to explore other 
 
 
 # Input/Output Screenshot
+<img width="343" height="240" alt="image" src="https://github.com/user-attachments/assets/5837a5d8-1d7f-4fed-a33d-a3b4273ebcae" />.png
+
