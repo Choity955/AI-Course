@@ -66,3 +66,5 @@ For example:
 
 
 # Input/Output Screenshot
+<img width="412" height="626" alt="image" src="https://github.com/user-attachments/assets/d4c2bf74-7b8e-48ef-9013-543b03563c80" />.png
+
