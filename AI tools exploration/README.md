@@ -56,7 +56,7 @@ Free version (includes watermark and limited slide generations).
 Paid version offers unlimited slides, advanced design tools, and brand templates.
 
 ### AI Course Presentation
-- [Download / View PPTX](AI_Course_Presentation.pptx)
+- [Download / View PPTX](https://github.com/Choity955/AI-Course/raw/refs/heads/main/AI%20tools%20exploration/AI_Course%20ppt.pptx)
 
 
 
