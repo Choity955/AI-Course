@@ -42,8 +42,7 @@ No external libraries are required except Tkinter, which comes built-in with Pyt
 
 ## Screenshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0569fda5-9248-4327-ae91-c07a8f789123" />.png
-
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d03c723f-e233-46a6-94c5-11fcbd25987b" />.png
 
 
 ## Algorithm used (Minimax):
