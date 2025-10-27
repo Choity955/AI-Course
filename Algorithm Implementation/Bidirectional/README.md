@@ -61,3 +61,5 @@ When both searches meet at node **M**, the algorithm reconstructs the **shortest
 
 
 # Input/Output Screenshot
+<img width="619" height="390" alt="image" src="https://github.com/user-attachments/assets/1f01b702-ccff-47ed-a79b-455ad6c3d4fd" />.png
+
