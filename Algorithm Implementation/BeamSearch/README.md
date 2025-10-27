@@ -53,3 +53,5 @@
 
 
 # Input/Output Screenshot
+<img width="356" height="420" alt="image" src="https://github.com/user-attachments/assets/2411baf6-160d-4097-9a64-172ffe744620" />.png
+
