@@ -121,10 +121,13 @@ LangGraph initializes the agent’s state:
 1.
 <img width="1920" height="969" alt="image" src="https://github.com/user-attachments/assets/78723267-5ace-4331-b081-bc152c1f57c0" />
 
+
 2.
 <img width="1920" height="939" alt="image" src="https://github.com/user-attachments/assets/887bdd56-77aa-4fd7-9383-b5dade545b06" />
 
 
+3.
+<img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/64896db3-86d7-40d9-b649-c984577a68bc" />
 
 
  
